@@ -1,4 +1,4 @@
-# Olá! Me chamo Thales Cabral.
+# Olá! I am Thales Cabral.
 🔸 Biomedical Scientist
 
 🔸 Specializing in UX design
