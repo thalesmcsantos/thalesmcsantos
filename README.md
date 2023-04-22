@@ -11,3 +11,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesmcsantos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+🎮 Playing
+
+<a href="https://tracker.gg/valorant/profile/riot/ThaTha%23Feed/overview" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/valorant/#FA4454" /> <a href="https://overwatch.blizzard.com/en-us/career/Sahashi-11661/" target="blank"><img height="32" width="32" src="https://img.icons8.com/color/96/null/overwatch--v1.png"/>
